@@ -1,3 +1,4 @@
+print("hello world!")
 if (!require("rvest")) install.packages("rvest")
 if (!require("stringi")) install.packages("stringi")
 install.packages("selectr")
